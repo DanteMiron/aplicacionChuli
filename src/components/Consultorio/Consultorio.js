@@ -1,10 +1,11 @@
 import React from 'react';
 import { Box } from './ConsultorioStyled';
+import Card from '../Card/Card';
 
 const Consultorio = () => {
     return (
         <Box>
-            <h1>HOLAAAAA</h1>
+            <Card/>
         </Box>
     );
 }
